@@ -1,5 +1,5 @@
 # Advent of Code Day 6
-[Link to Avent of Code](https://adventofcode.com/)
+[Link to Advent of Code](https://adventofcode.com/)
 
 Solution for Part 1 and 2 with typing.
 Again I have left out the inputData.
